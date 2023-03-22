@@ -1,0 +1,67 @@
+Általános követelmények:
+- Csapat és témaválasztás Március 29-ig. 
+- A beadandó GitHubon való megosztása. 
+- A GitHub readme részét rendesen írjátok meg! A program megérthető és futtatható legyen a readme alapján! Amennyire lehetséges írjatok le egy példa futtatást a kimenettel együtt. Ha ez nincs rendesen megcsinálva, nem lehet ötös a jegy. 
+- A beadandó bemutatása 5-10 percben az utolsó órán. 
+- Határidő: 1 héttel a bemutató előtt.  
+
+A következő témák választhatók, de saját témát is hozhattok. Ebben az esetben írjatok egy emailt róla és megbeszéljük. 
+
+1. Dáma program. 
+
+Írjatok egy saját dáma programot. 
+
+Követelmények:
+	- Lehessen dámát játszani egy másik emberi játékos ellen
+	- Tudja jól a szabályokat, ne lehessen szabálytalanokat lépni
+	- Számítógép ellen is lehessen játszani
+	- A számítógépnek legyen valamilyen értelmes stratégiája
+
+2. Qr kód generátor
+
+Írjatok egy programot, mely megadott szövegből szabályos qr kódot generál. 
+Követelmények:
+	- A qr kód generálást magatok írjátok meg, ne használjatok hozzá könyvtárat!!
+	- Nem kell a teljes qr-kód szabványt elkészíteni, de használható qr kódot hozzon létre. 
+	- A qr kódot képként készítse el a program. 
+	- Legyen visszafejtő program is, de a kamerával való beolvasást nem kell megoldani, tehát elég, ha egy qr kódot reprezentáló tömböt visszafejt.
+
+3. Kártya számolás modellezés
+Modellezetek egy kártya számolási stratégiát a Black Jack játékhoz. Pl https://en.wikipedia.org/wiki/Card_counting
+
+Követelmények:
+	- Lehessen Black Jacket játszani.
+	- A program tudjon játszani a számolási stratégia alapján, lehessen látni a játékok lefolyását.
+	- Sok játék alapján készítsetek rövid elemzést a hatékonyságról. Hogy függ a hatékonyság a paklik számától?
+	
+
+4. Geogebra
+Készítsetek egyszerű, Geogebrához hasonló programot. 
+Követelmények:
+	- Lehessen egyszerű geometriai lépéseket végrehajtani (pont, kör, egyenes, szakasz felvétele, metszéspont kiszámítása stb)
+	- Dinamikusan mozgathatóak legyenek a szerkesztések, ha mozgatunk egy pontot, a tőle függő objektumok is mozogjanak.
+	- A grafikai részt megéri valamilyen modullal megoldani, pl: http://py5coding.org/
+
+5. Wave function collapse 
+A wave function collapse algoritmus alapján készítsetek egy térkép/pálya/valami generátor.
+	- Az algoritmus eredeti leírása itt található:https: github.com/mxgmn/WaveFunctionCollapse (Van sok youtube tutorial is.)
+	- Magatoktól írjátok meg az algoritmust, ne használjatok modult/más kódját. 
+	- Az algoritmus sok része máshogy is csinálható, mint az eredeti leírásban. A cél, hogy jó eredményeket kapjatok, nem az, hogy precízen a leírást kövessétek, úgyhogy szabadon alakítsátok az algoritmust.  
+
+5. Saját ötlet
+Követelmények:
+	- Legyen benne matek és programozás
+	
+Egy csomó ötlet van itt: https://www.math.colostate.edu/~adams/teaching/math435spr2017/ProjectIdeas.pdf
+
+Korábbi projektek, ötlet gyanánt:
+	- Rubik kocka megoldó.
+	- Fekete macska kártyajáték stratégiáinak összehasonlítása.
+	- Sudoku megoldók különleges stratégiával.
+	- 15-ös tologatós játék.
+	- Tic tac toe elemzés.
+	
+
+
+	
+
