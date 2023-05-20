@@ -87,3 +87,6 @@ Eredmények úgy, hogy változtatjuk a játékok számát a pakli méretével ar
 
 ![kep_valtozik a paklival a futtatasok szama, ossz fix _ ossz=1000](https://github.com/tali2001/MatProgCsom-hf/assets/128598130/671f857e-c262-4a36-a635-5946bbb45a3b)
 
+![valtozik](https://github.com/tali2001/MatProgCsom-hf/assets/128598130/632a7e57-5f2e-46d4-ab8a-2526a0aa75d9)
+
+
