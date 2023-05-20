@@ -80,7 +80,7 @@ A kártyaszámlálás alapja az, hogy figyelemmel követjük a kártyák érték
 8 – 0.66%
 ```
 Eredmények fix 20 futtatással x 5000:
-[kep_jo 500x20](https://github.com/tali2001/MatProgCsom-hf/assets/128598130/2f58fd57-bd67-4601-9a4b-f8f1701972e2)
+![kep_jo 500x20](https://github.com/tali2001/MatProgCsom-hf/assets/128598130/2f58fd57-bd67-4601-9a4b-f8f1701972e2)
 
 Eredmények úgy, hogy változtatjuk a játékok számát a pakli méretével arányosan (de az össz futtatásszám fix):
 ![kep_valtozik a paklival a futtatasok szama, ossz fix _ ossz=1000](https://github.com/tali2001/MatProgCsom-hf/assets/128598130/671f857e-c262-4a36-a635-5946bbb45a3b)
