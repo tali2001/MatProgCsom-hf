@@ -71,3 +71,10 @@ Your balance is  110 .
 ```
 A kártyaszámlálás a blackjack játék stratégiai része, amely lehetővé teszi, hogy előre jelezzük a következő kártyák értékét és ennek alapján döntsünk. A kártyák értékének figyelemmel kísérése segít a játékosnak előnyt szerezni a kaszinóval szemben, mivel ez lehetőséget ad arra, hogy előnyös helyzetben nagyobb téttel játszva növelje a nyerési esélyeit.
 A kártyaszámlálás alapja az, hogy figyelemmel követjük a kártyák értékét a játék során. Általában a kártyák magas és alacsony értékére koncentrálunk. A magas értékű kártyák (ászok, 10-esek, jumbók, királyok, dámák) előnyösek a játékos számára, míg az alacsony értékű kártyák inkább a kaszinó javára válnak. Ha magas értékű kártyák maradnak a pakliban, akkor a játékosnak előnye származik, mivel növekszik az esélye a 21-hez közelítő kéz létrehozására. A projektünkben a következő ismert stratégiákat próbáltuk ki: 'Hi-Lo','Hi-Opt I','Hi-Opt II','KO','Omega II','Red 7','Halves','Zen Count','10 Count'. Minden esetben a különböző lapokhoz különböző értékeket rendelünk és az eddig felfordított lapok értékösszege alapján határozzuk meg, hogy a következő játék során milyen nagy tétet teszünk fel. A „w_counting” fájl tartalmazza a megvalósított kártyaszámláló programunkat. Egy-egy stratégia, illetve pakliszám esetét a start_playing(n, nr, money, minbet, strategy) függvény meghívásával vizsgálhatunk meg, ahol a paraméter sorban: a lejátszani kívánt játékok száma, a paklik száma, a kezdeti pénzösszeg, minimális tét, stratégia (ez a fenti listából válaszható).
+Összehasonlításképpen: house edge különböző pakliszámok esetén:
+```
+1 – 0.17%
+2 – 0.46%
+4 – 0.60%
+6 – 0.64%
+8 – 0.66%```
