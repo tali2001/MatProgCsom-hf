@@ -77,4 +77,10 @@ A kártyaszámlálás alapja az, hogy figyelemmel követjük a kártyák érték
 2 – 0.46%
 4 – 0.60%
 6 – 0.64%
-8 – 0.66%```
+8 – 0.66%
+```
+Eredmények fix 20 futtatással x 5000:
+![plot](kep_jo 500x20.png)
+
+Eredmények úgy, hogy változtatjuk a játékok számát a pakli méretével arányosan (de az össz futtatásszám fix):
+![plot](kep_valtozik a paklival a futtatasok szama, ossz fix _ ossz=1000.png)
