@@ -79,7 +79,7 @@ A kártyaszámlálás alapja az, hogy figyelemmel követjük a kártyák érték
 
 A „w_counting” fájl tartalmazza a megvalósított kártyaszámláló programunkat. Egy-egy stratégia, illetve pakliszám esetét a start_playing(n, nr, money, minbet, strategy) függvény meghívásával vizsgálhatunk meg, ahol a paraméter sorban: a lejátszani kívánt játékok száma, a paklik száma, a kezdeti pénzösszeg, minimális tét, stratégia (ez a fenti listából válaszható). Próbáltunk olyan stratégiákat és olyan helyzeteket vizsgálni, amelyek életszerűek, azaz elképzelhető, hogy egy ember fejben tudja őket tartani, számolni; illetve például az első grafikon esetén reálisnak ítéljük, hogy valaki 20 meccset lejátszik egy asztalnál.
 
-Összehasonlításképpen: house edge különböző pakliszámok esetén:
+Összehasonlításképpen: house edge különböző pakliszámok esetén, ha nem számoljuk a lapokat:
 ```
 1 – 0.17%
 2 – 0.46%
