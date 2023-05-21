@@ -1,7 +1,7 @@
 # MatProgCsom-hf Blackjack Kártyaszámlálás
 Projektünk a blackjack kártyaszámlálást mutatja be. A blackjack egy olyan kaszinójáték, ahol a cél az, hogy közelebb jussunk vagy elérjük a 21-es pontszámot a kiosztott kártyák segítségével anélkül, hogy túllépnénk ezen a pontszámon. A játékban minden felfordított lap után döntenünk kell, hogy megállunk vagy még egyet húzunk. Ezen kívül két további speciális helyzetekben fennálló lépést is megvalósítottunk. Ha az eredeti két lap alapján úgy érezzük, hogy jó esélyünk van nyerni, akkor választhatjuk a duplázás opciót. Ebben az esetben a tétet megduplázzuk viszont csak egy további lapot kapunk. Ha az eredeti két lap azonos értékű, akkor választhatjuk a split opciót. Ebben az esetben két külön kézzel játszunk tovább.
 
-A feltöltött „wo_counting” fájl lehetővé teszi a blackjact kipróbálását és elsajátítását. A program elindítása után meg kell adnunk a játék főbb jellemzőit, mint a paklik száma, a nálunk lévő pénzösszeg, a minimális tét mértéke. Ezeket egyszer kéri be a program. Az alábbiakban bemutatunk egy példa lefutást:
+A feltöltött „wo_counting” fájl lehetővé teszi a blackjack kipróbálását és elsajátítását. A program elindítása után meg kell adnunk a játék főbb jellemzőit, mint a paklik száma, a nálunk lévő pénzösszeg, a minimális tét mértéke. Ezeket egyszer kéri be a program. Az alábbiakban bemutatunk egy példa lefutást:
 ```
 Number of decks? 4
 Starting amount?100
